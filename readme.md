@@ -2,7 +2,7 @@
 
 Ce script de superette qui a été réalisé en OX.
 
-Preview : https://youtu.be/Q95D8t4LVwc
+Preview : https://youtu.be/YwZiId99nnY
 
 ## Fonctionnalités
 
