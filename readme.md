@@ -8,7 +8,7 @@ Preview : https://youtu.be/Q95D8t4LVwc
 
 - **Achat d'item**: Achetez des articles dans les supérettes.
 - **Optimisation**: Le script est optimisé pour éviter les bugs.
-- **Full configurable**: Vous pouvez configurer le script comme vous le souhaitez grâce au catégorie.
+- **Full configurable**: Vous pouvez configurer le script comme vous le souhaitez grâce aux catégories.
 
 ## Installation
 
